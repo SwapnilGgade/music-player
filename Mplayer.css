@@ -189,7 +189,7 @@ body {
 .searchBar .search-icon {
     width: 20px;
     height: 20px;
-    margin-right: -8px;
+    margin-right: -10px;
 }
 
 .search-icon img {
@@ -198,7 +198,7 @@ body {
     background-image: url(./MusicPlayerIcons/search-icon.png);
     position: relative;
     top: -42px;
-    right: 128px;
+    right: 137px;
     border-radius: 4px;
     margin-top: -5px;
 }
